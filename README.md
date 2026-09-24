@@ -59,7 +59,7 @@
 
 - 📧 **Email:** [tuans2k6@gmail.com](mailto:tuans2k6@gmail.com)
 - 📱 **Điện thoại:** [+84 795 222 148](tel:+84795222148)
-- 🌐 **Portfolio:** [tuans.vercel.app](https://tuns.id.vn)
+- 🌐 **Portfolio:** [tuns.id.vn](https://tuns.id.vn)
 - 🐙 **GitHub:** [github.com/MinkTuans](https://github.com/MinkTuans)
 
 ---
